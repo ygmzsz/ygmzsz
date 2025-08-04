@@ -5,7 +5,7 @@
 
 <br />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!👋;I'm+Ygnacio+Maza%2C+Full-Stack+Developer;Open+Source+Contributor+and+Tech+Enthusiast&size=24" alt="Intro Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!👋;I'm+Ygnacio+Maza%2C+Full-Stack+Developer;&size=24" alt="Intro Typing Animation">
 </p>
 <!-- END HEADER -->
 
@@ -14,6 +14,6 @@
 ## 🔧 About Me
 
 ```yaml
-👋 I'm Ygnacio — passionate about coding engaging apps, and venturing into game dev.
+👋 I'm Ygnacio — passionate about coding engaging apps, and looking to venture into game dev.
 📍 From Kitchener, ON, Canada
-🌱 Learning Unreal Engine to port my games
+🌱 Learning Unreal Engine & Unity
