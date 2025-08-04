@@ -59,9 +59,11 @@ Cryptocurrency platform for Discord communities built on Stellar blockchain.
   <a href="https://www.linkedin.com/in/ygnacio-maza-sanchez-23abb92a2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ygmzsz?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://your-website.com">
     <img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
