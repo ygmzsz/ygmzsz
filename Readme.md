@@ -7,12 +7,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!👋;I'm+Ygnacio+Maza%2C+Full-Stack+Dev;&size=24" alt="Intro Typing Animation">
 </p>
 
+---
+
 ## About Me
 
 I'm Ygnacio — passionate about coding engaging apps, and looking to venture into game dev.
 From Kitchener, ON, Canada. Currently learning Unreal Engine & Unity.
 
-### Languages and Tools
+---
+
+### 🧰 Languages and Tools
 
 <p align="center">
 <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -30,22 +34,27 @@ From Kitchener, ON, Canada. Currently learning Unreal Engine & Unity.
 <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
 
-### 🏆 Hackathons
+---
 
-ConHacks 2024 - Canada Elections App
-Voter registration & election info platform with secure authentication and real-time news integration.
-Role: Backend Development & Security | Tech: MongoDB, React, Node.js, AES Encryption
-placement:3rd in track
+## 🏆 Hackathons
 
-Consensus 2025 - Stellica
-Cryptocurrency platform for Discord communities built on Stellar blockchain.
-Role: Project Management & Frontend | Tech: Stellar, Next.js, Discord API
-placement:7th in track
+### ConHacks 2024 - Canada Elections App
+Voter registration & election info platform with secure authentication and real-time news integration.  
+**Role:** Backend Development & Security | **Tech:** MongoDB, React, Node.js, AES Encryption  
+**Placement:** 3rd in track
 
-SpurHacks 2025
-Coming soon...
+### Consensus 2025 - Stellica
+Cryptocurrency platform for Discord communities built on Stellar blockchain.  
+**Role:** Project Management & Frontend | **Tech:** Stellar, Next.js, Discord API  
+**Placement:** 7th in track
 
-🔗 Connect With Me
+### SpurHacks 2025
+*Coming soon...*
+
+---
+
+## 🔗 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ygnacio-maza-sanchez-23abb92a2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -57,9 +66,3 @@ Coming soon...
     <img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
-
-
-
-
-
-
