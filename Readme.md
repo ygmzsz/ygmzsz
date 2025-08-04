@@ -6,14 +6,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!👋;I'm+Ygnacio+Maza%2C+Full-Stack+Dev;&size=24" alt="Intro Typing Animation">
 </p>
----
 
 ## About Me
 
 I'm Ygnacio — passionate about coding engaging apps, and looking to venture into game dev.
 From Kitchener, ON, Canada. Currently learning Unreal Engine & Unity.
-
----
 
 ### Languages and Tools
 
@@ -33,8 +30,6 @@ From Kitchener, ON, Canada. Currently learning Unreal Engine & Unity.
 <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
 
----
-
 ### 🏆 Hackathons
 
 ConHacks 2024 - Canada Elections App
@@ -49,6 +44,22 @@ placement:7th in track
 
 SpurHacks 2025
 Coming soon...
+
+🔗 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ygnacio-maza-sanchez-23abb92a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ygmzsz?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+  <a href="https://your-website.com">
+    <img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
+
+
 
 
 
